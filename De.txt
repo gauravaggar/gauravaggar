@@ -1,0 +1,11 @@
+Template pattern:-
+Strategy Pattern
+state pattern:-
+iterator pattern:-
+flyweight pattern
+composite pattern
+adapter pattern
+prototype pattern:-
+abstract factory pattern:-
+signleton 
+sign pattern:-
