@@ -9,4 +9,3 @@ prototype pattern:-
 abstract factory pattern:-
 signleton 
 sign pattern:-
-gaurv
