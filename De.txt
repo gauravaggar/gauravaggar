@@ -8,4 +8,4 @@ adapter pattern
 prototype pattern:-
 abstract factory pattern:-
 signleton 
-sign pattern:-
+sign pattern:-learn it soon
